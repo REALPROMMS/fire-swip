@@ -181,3 +181,7 @@ button {
 .main-mnu a:hover {
 	text-decoration: underline;
 }
+
+h2 {
+	letter-spacing: 10px;
+}
